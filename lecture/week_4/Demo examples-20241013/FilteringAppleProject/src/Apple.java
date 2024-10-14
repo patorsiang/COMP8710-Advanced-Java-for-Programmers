@@ -1,0 +1,1 @@
+public record Apple(int weight, String color) { }
