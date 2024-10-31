@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+<Pane fx:id="container" prefWidth="400.0"  prefHeight="300.0" xmlns="http://javafx.com/javafx/16"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="kent.co871.propertybinding.Controller">
+   <Circle fx:id="circle" radius="60.0" centerX="200.0" centerY="150.0" fill="ORANGE"/>
+</Pane>

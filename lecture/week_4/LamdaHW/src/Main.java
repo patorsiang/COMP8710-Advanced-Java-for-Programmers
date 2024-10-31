@@ -2,17 +2,19 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        var myList = Arrays.asList(3,2,5,1,6,4);
+        var myList = Arrays.asList(3, 2, 5, 1, 6, 4);
 
         // ascending
-        myList.sort(Integer::compare);
+        myList.sort(Integer::compareTo);
+//        myList.sort(Integer::compare);
+//        myList.sort(Comparator.naturalOrder());
 
         System.out.println(myList);
 
         // descending
 
-        myList.sort((a, b) -> Integer.compare(b, a));
-
+//        myList.sort((a, b) -> Integer.compare(b, a));
+        myList.sort(Comparator.reverseOrder());
         System.out.println(myList);
 
         // Sort even numbers first and then odd numbers
