@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c7ae62a-5c18-4539-bc35-7ffd24ac7200" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_5/Demo examples-20241020/MemoryCellProject/MemoryCellProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_5/Demo examples-20241020/ParellelStream/ParellelStream.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_5/Demo examples-20241020/StreamDishes/StreamDishes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_6/demo/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_6/demo/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_6/demo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../lecture/week_6/demo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../class_4/MusicTracks/MusicTracks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../class_4/Sample solutions-20241024/Class4-1/MusicTracks/MusicTracks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../class_4/Sample solutions-20241024/Class4-2/MusicTracks/MusicTracks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../lecture/week_4/LamdaHW/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lecture/week_4/LamdaHW/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javafx/SimpleBankMVC/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../javafx/SimpleBankMVC/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../javafx/SimpleBankMVC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../javafx/SimpleBankMVC/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,33 +29,34 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oCv0Vb3BAYk5IWlQqGXNbirM0q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/napatcholthaipanich/Dev/master/comp8710_adv_java/class/pc/class_6/SimpleBankMVC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -82,6 +74,10 @@
       <option name="presentableId" value="Default" />
       <updated>1730386150280</updated>
       <workItem from="1730386151897" duration="235000" />
+      <workItem from="1730407900639" duration="125000" />
+      <workItem from="1730463119247" duration="841000" />
+      <workItem from="1730467285939" duration="157000" />
+      <workItem from="1730468770070" duration="656000" />
     </task>
     <servers />
   </component>
